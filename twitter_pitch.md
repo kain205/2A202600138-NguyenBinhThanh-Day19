@@ -4,20 +4,8 @@
 
 ---
 
-## Filled Version (pre-launch)
+Bọn em là **Synapsy**. Bọn em giúp **sinh viên Y khoa VN** giải quyết việc **không thể tin vào AI để ôn thi lâm sàng vì sợ hallucination** bằng **hệ thống chẩn đoán lỗ hổng từ tài liệu của chính sinh viên — mỗi flashcard trỏ thẳng tới dòng PDF gốc, không phải kiến thức AI tự bịa**.
 
-Bọn em là **Synapsy**. Bọn em giúp **sinh viên Y khoa VN đang nước rút trước kỳ thi** giải quyết việc **không biết học gì trước và mất hàng giờ tự làm tài liệu ôn tập** bằng **AI chẩn đoán lỗ hổng kiến thức từ tài liệu của chính sinh viên rồi tạo lộ trình ôn thi cho tối nay — kèm flashcard tự động và truy xuất nguồn từng dòng file gốc**.
+Chưa launch. Structured customer discovery đang chạy: 10 sinh viên Y năm 3–5 trong lịch phỏng vấn 2 tuần tới. Thị trường ban đầu: 60–90K sinh viên Y; expansion path: 2M+ sinh viên đại học VN.
 
-Chưa launch. Vòng tròn bạn bè ban đầu: **100% nghe xong muốn thử ngay**. Thị trường: ~**60–90K sinh viên Y** đang học tại 15 trường Y trên cả nước.
-
-Gọi **[Số tiền] pre-seed** để ra MVP và đạt **50 user hoàn thành ôn 50+ thẻ trong 48h sau upload đầu tiên** trong vòng 3 tháng.
-
----
-
-## Notes điền chỗ trống
-
-| Placeholder | Ghi chú |
-|---|---|
-| [Số tiền] pre-seed | Điều chỉnh theo burn rate — ví dụ: 300–500M VND |
-| 50 user / 50 thẻ / 48h | PMF Signal từ doc.md — giữ nguyên làm anchor metric |
-| Số phỏng vấn chính thức | Điền khi customer discovery có đủ buổi |
+Gọi **[Số tiền] pre-seed** để ra MVP và đạt **50 users ôn 50+ thẻ trong 48h** — PMF signal duy nhất mình đo.
